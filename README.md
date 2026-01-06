@@ -93,19 +93,21 @@ src/
 
 ## License
 
-🇫🇷**Usage libre, revente interdite.**
+
+
+🇫🇷**Usage libre, revente interdite.**\
 🇬🇧**Free usage, sell it forbiden.**
 
-### Vous pouvez | You can:
+### Vous pouvez / You can:
 
-  ✅ Utiliser ce logiciel pour tout | Use this software for anything
-  ✅ Le modifier comme vous voulez | Change it however you want
-  ✅ Le partager avec d'autres | Share it with others
-  ✅ L'utiliser dans votre entreprise | Use it in your business
+✅ Utiliser ce logiciel pour tout / Use this software for anything \
+✅ Le modifier comme vous voulez / Change it however you want \
+✅ Le partager avec d'autres / Share it with others \
+✅ L'utiliser dans votre entreprise / Use it in your business
 
-### Vous ne pouvez pas | You cannot:
-  ❌ Vendre ce logiciel | Sell this software 
-  ❌ Prétendre que c'est vous qui l'avez créé | Claim you made it
+### Vous ne pouvez pas / You cannot:
+❌ Vendre ce logiciel / Sell this software \
+❌ Prétendre que c'est vous qui l'avez créé / Claim you made it
 
-See [LICENSE](LICENSE) for details.
-Licence complète : [LICENSE](LICENSE)
+Licence complète : [LICENSE](LICENSE)\
+Complete licence : [LICENSE](LICENSE)
